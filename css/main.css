@@ -1225,7 +1225,7 @@ table {
 		box-sizing: border-box;
 	}
 	#section .section3 .section3_slider .shop a .shop_info .shop_title p {
-		font-size: 15px;
+		font-size: 14px;
 		font-weight: 400;
 		color: #393939;
 		padding: 10px 10px 5px 10px;
@@ -1240,7 +1240,7 @@ table {
 	}
 	#section .section3 .section3_slider .shop a {
 		display: block;
-		padding: 20px;
+		padding: 10px;
 	}
 	#section .section3 .section3_slider .shop a .shop_info .shop_title .shop_location {
 		box-sizing: border-box;
@@ -1357,7 +1357,7 @@ table {
 	#section .section4 .section4_banner .desc p {
 		color: #fff;
 		text-align: center;
-		font-size: 22px;
+		font-size: 20px;
 		font-weight: 600;
 		padding-top: 5%;
 	}
@@ -1365,7 +1365,7 @@ table {
 		display: block;
 		padding-top: 5%;
 		text-align: center;
-		font-size: 20px;
+		font-size: 14px;
 		font-weight: 400;
 		color: #fff;
 	}
@@ -1557,14 +1557,14 @@ table {
 	}
 	#section .section6 .motto .m_title {
 		float: none;
-		font-size: 44px;
+		font-size: 28px;
 		color: #393939;
 		line-height: 100px;
 		font-weight: 800;
 	}
 	#section .section6 .motto .m_text {
 		float: none;
-		font-size: 18px;
+		font-size: 15px;
 		color: #393939;
 		line-height: 24px;
 		font-weight: 600;
