@@ -388,7 +388,7 @@ table {
 	margin-top: 12px;
 }
 #gnb2 > ul > li > a {
-	display: in;
+	display: block;
 	position: relative;
 	font-weight: 600;
 	line-height: 20px;
@@ -662,6 +662,25 @@ table {
 		top: 20px;
 		right: 20px;
 		transform: scale(1);
+	}
+	#header .full_menu .l_menu .fm_moto .m_title {
+		font-size: 20px;
+	}
+	#header .full_menu .l_menu .fm_moto .m_text {
+		font-size: 16px;
+	}
+	#gnb2 > ul > li > a {
+		font-size: 15px;
+	}
+	#gnb2 li li a {
+		display: block;
+		font-size: 14px;
+	}
+	#header .full_menu .r_menu .fm_copyright {
+		float: right;
+		padding-top: 15px;
+		font-size: 12px;
+		margin-right: 3px;
 	}
 }
 
