@@ -179,7 +179,6 @@ $(window).ready(function(){
 		spaceBetween: 10,
 		centeredSlides: true,
 		initialSlide:3,
-		loopedSlides:1,
         loop: true,
 		autoplay: {
 			delay: 4000,
